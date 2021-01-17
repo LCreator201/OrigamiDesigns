@@ -1,0 +1,10 @@
+.Camel{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+.Dragon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
